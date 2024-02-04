@@ -130,7 +130,7 @@ const HeatmapItem = ({ id, title, toggle, def, c, ocp }) => {
 const libraries = ["places", "visualization"];
 const Dashboard = () => {
   const { isLoaded, loadError } = useLoadScript({
-    googleMapsApiKey: "AIzaSyAQhd3g8LLCJnLJhnvRorbhxYfZVvl8O0Q",
+    googleMapsApiKey: "nuh uh",
     libraries,
   });
 
