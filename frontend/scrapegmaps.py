@@ -3,7 +3,7 @@ import random
 import googlemaps
 import pickle
 
-gmaps = googlemaps.Client(key='AIzaSyAQhd3g8LLCJnLJhnvRorbhxYfZVvl8O0Q')
+gmaps = googlemaps.Client(key='nuh uh')
 
 places = []
 bound1 = (51.556565216753306, -0.21628950336275413)
