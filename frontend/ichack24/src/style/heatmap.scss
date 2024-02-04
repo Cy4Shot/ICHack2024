@@ -1,0 +1,26 @@
+.map-popup {
+    position: absolute;
+    // Position whole popup (including text) above the parent element
+    top: -100%;
+    left: -50%;
+    // Position text inside popup
+    transform: translate(-50%, -100%);
+    padding: 0px;
+    min-width: 350px;
+}
+
+.gm-style-iw-c button:not(.delete) {
+    display: none !important;
+}
+
+.gm-style-iw-d {
+    width: 0 !important;
+}
+
+.delete {
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-50%, 50%);
+    background-color: #a1a1a1;
+}

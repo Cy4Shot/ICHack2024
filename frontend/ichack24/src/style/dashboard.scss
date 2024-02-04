@@ -1,0 +1,87 @@
+@import "settings.scss";
+
+.button:not(.is-screen) {
+  border-color: black !important;
+  border-width: 3px !important;
+  border-radius: 0px !important;
+  font-weight: bold !important;
+  color: #000 !important;
+  background-color: $primary !important;
+
+  &.is-loading {
+    border-width: 3px !important;
+    border-radius: 0px !important;
+  }
+
+  &:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 0px solid black;
+    cursor: pointer;
+  }
+
+  &:not(.light) {
+    &:after {
+      transition: all 0.2s ease-in-out;
+    }
+
+    &:hover:after {
+      border-width: 3px;
+    }
+  }
+
+  &.light {
+    border-width: 2px;
+    font-weight: normal;
+
+    &:hover:after {
+      border-width: 1px;
+    }
+  }
+
+  &.is-wiggle:hover {
+    animation: wiggle 0.3s linear;
+  }
+}
+
+@keyframes wiggle {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  25% {
+    transform: rotate(3deg);
+  }
+
+  50% {
+    transform: rotate(0deg);
+  }
+
+  75% {
+    transform: rotate(-3deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.button.is-screen.is-loading {
+  padding-top: 0;
+  padding-bottom: 0;
+
+  &:after {
+    border-color: #000;
+    border-right-color: transparent;
+    border-top-color: transparent;
+  }
+}
+
+.switch[type="checkbox"].is-primary:checked + label::before,
+.switch[type="checkbox"].is-primary:checked + label:before {
+  background-color: $primary;
+}

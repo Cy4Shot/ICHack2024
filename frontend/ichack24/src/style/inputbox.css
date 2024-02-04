@@ -1,0 +1,9 @@
+/* Modern UI */
+input.color {
+    background-color: transparent;
+    border: 0px;
+    font-size: 14px;
+    color: #000;
+    border-radius: 5px;
+    box-sizing: border-box;
+}

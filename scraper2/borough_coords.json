@@ -1,0 +1,258 @@
+[
+  {
+    "Borough": "Barking & Dagenham",
+    "Latitude": "51.547796",
+    "Longitude": "0.135356",
+    "Average Monthly Rent": 1461,
+    "Normalized Rent": "0.061265822784810124",
+    "Future Average Spending": 1950840031234
+  },
+  {
+    "Borough": "Barnet",
+    "Latitude": "51.603622",
+    "Longitude": "-0.208902",
+    "Average Monthly Rent": 1869,
+    "Normalized Rent": "0.26784810126582276",
+    "Future Average Spending": 232169797274
+  },
+  {
+    "Borough": "Bexley",
+    "Latitude": "51.603622",
+    "Longitude": "-0.208902",
+    "Average Monthly Rent": 1673,
+    "Normalized Rent": "0.16860759493670885",
+    "Future Average Spending": 2117305642962
+  },
+  {
+    "Borough": "Brent",
+    "Latitude": "51.558285",
+    "Longitude": "-0.258738",
+    "Average Monthly Rent": 1902,
+    "Normalized Rent": "0.28455696202531644",
+    "fas": 177503063959
+  },
+  {
+    "Borough": "Bromley",
+    "Latitude": "51.367434",
+    "Longitude": "0.05562",
+    "Average Monthly Rent": 1719,
+    "Normalized Rent": "0.1918987341772152",
+    "fas": 241478348280
+  },
+  {
+    "Borough": "Camden",
+    "Latitude": "51.549424",
+    "Longitude": "-0.160434",
+    "Average Monthly Rent": 2451,
+    "Normalized Rent": "0.5625316455696202",
+    "fas": 175750225086
+  },
+  {
+    "Borough": "Croydon",
+    "Latitude": "51.355937",
+    "Longitude": "-0.084228",
+    "Average Monthly Rent": 1340,
+    "Normalized Rent": "0.0",
+    "fas": 159702990774
+  },
+  {
+    "Borough": "Ealing",
+    "Latitude": "51.522349",
+    "Longitude": "-0.330927",
+    "Average Monthly Rent": 1972,
+    "Normalized Rent": "0.32",
+    "fas": 211658494264
+  },
+  {
+    "Borough": "Enfield",
+    "Latitude": "51.647609",
+    "Longitude": "-0.080979",
+    "Average Monthly Rent": 1716,
+    "Normalized Rent": "0.19037974683544304",
+    "fas": 2994866343469
+  },
+  {
+    "Borough": "Greenwich",
+    "Latitude": "51.469487",
+    "Longitude": "0.04266",
+    "Average Monthly Rent": 1673,
+    "Normalized Rent": "0.16860759493670885",
+    "fas": 1793635445216
+  },
+  {
+    "Borough": "Hackney",
+    "Latitude": "51.554492",
+    "Longitude": "-0.062406",
+    "Average Monthly Rent": 1902,
+    "Normalized Rent": "0.28455696202531644",
+    "fas": 124750722250
+  },
+  {
+    "Borough": "Hammersmith & Fulham",
+    "Latitude": "51.499845",
+    "Longitude": "-0.223807",
+    "Average Monthly Rent": 2483,
+    "Normalized Rent": "0.5787341772151898",
+    "fas": 191947443307
+  },
+  {
+    "Borough": "Haringey",
+    "Latitude": "51.587478",
+    "Longitude": "-0.102193",
+    "Average Monthly Rent": 2128,
+    "Normalized Rent": "0.3989873417721519",
+    "fas": 916158762978
+  },
+  {
+    "Borough": "Harrow",
+    "Latitude": "51.594858",
+    "Longitude": "-0.34151",
+    "Average Monthly Rent": 1620,
+    "Normalized Rent": "0.14177215189873418",
+    "fas": 232690130951
+  },
+  {
+    "Borough": "Havering",
+    "Latitude": "51.557273",
+    "Longitude": "0.224805",
+    "Average Monthly Rent": 1461,
+    "Normalized Rent": "0.061265822784810124",
+    "fas": 2601094692688
+  },
+  {
+    "Borough": "Hillingdon",
+    "Latitude": "51.536303",
+    "Longitude": "-0.465323",
+    "Average Monthly Rent": 1620,
+    "Normalized Rent": "0.14177215189873418",
+    "fas": 187565061361
+  },
+  {
+    "Borough": "Hounslow",
+    "Latitude": "51.467552",
+    "Longitude": "-0.353536",
+    "Average Monthly Rent": 1717,
+    "Normalized Rent": "0.1908860759493671",
+    "fas": 241180798624
+  },
+  {
+    "Borough": "Islington",
+    "Latitude": "51.546506",
+    "Longitude": "-0.105806",
+    "Average Monthly Rent": 2128,
+    "Normalized Rent": "0.3989873417721519",
+    "fas": 35726709716
+  },
+  {
+    "Borough": "Kensington & Chelsea",
+    "Latitude": "51.50348",
+    "Longitude": "-0.197389",
+    "Average Monthly Rent": 2483,
+    "Normalized Rent": "0.5787341772151898",
+    "fas": 18995297368
+  },
+  {
+    "Borough": "Kingston",
+    "Latitude": "51.386708",
+    "Longitude": "-0.283624",
+    "Average Monthly Rent": 1770,
+    "Normalized Rent": "0.21772151898734177",
+    "fas": 1239174918468
+  },
+  {
+    "Borough": "Lambeth",
+    "Latitude": "51.452119",
+    "Longitude": "-0.11709",
+    "Average Monthly Rent": 2542,
+    "Normalized Rent": "0.6086075949367089",
+    "fas": 309537420372
+  },
+  {
+    "Borough": "Lewisham",
+    "Latitude": "51.451595",
+    "Longitude": "-0.019972",
+    "Average Monthly Rent": 2018,
+    "Normalized Rent": "0.3432911392405063",
+    "fas": 284976080955
+  },
+  {
+    "Borough": "Merton",
+    "Latitude": "51.409812",
+    "Longitude": "-0.192677",
+    "Average Monthly Rent": 1770,
+    "Normalized Rent": "0.21772151898734177",
+    "fas": 231354477228
+  },
+  {
+    "Borough": "Newham",
+    "Latitude": "51.533509",
+    "Longitude": "0.033981",
+    "Average Monthly Rent": 1902,
+    "Normalized Rent": "0.28455696202531644",
+    "fas": 989902241030
+  },
+  {
+    "Borough": "Redbridge",
+    "Latitude": "51.588805",
+    "Longitude": "0.065876",
+    "Average Monthly Rent": 1562,
+    "Normalized Rent": "0.11240506329113924",
+    "fas": 2592002813812
+  },
+  {
+    "Borough": "Richmond",
+    "Latitude": "51.447237",
+    "Longitude": "-0.315487",
+    "Average Monthly Rent": 1717,
+    "Normalized Rent": "0.1908860759493671",
+    "fas": 164686947634
+  },
+  {
+    "Borough": "Southwark",
+    "Latitude": "51.473197",
+    "Longitude": "-0.070935",
+    "Average Monthly Rent": 2018,
+    "Normalized Rent": "0.3432911392405063",
+    "fas": 81766463271
+  },
+  {
+    "Borough": "Sutton",
+    "Latitude": "51.362885",
+    "Longitude": "-0.179057",
+    "Average Monthly Rent": 1770,
+    "Normalized Rent": "0.21772151898734177",
+    "fas": 1258519221032
+  },
+  {
+    "Borough": "Tower Hamlets",
+    "Latitude": "51.517313",
+    "Longitude": "-0.031284",
+    "Average Monthly Rent": 2174,
+    "Normalized Rent": "0.42227848101265825",
+    "fas": 218922571515
+  },
+  {
+    "Borough": "Waltham Forest",
+    "Latitude": "51.594803",
+    "Longitude": "-0.018265",
+    "Average Monthly Rent": 1562,
+    "Normalized Rent": "0.11240506329113924",
+    "fas": 2878656155657
+  },
+  {
+    "Borough": "Wandsworth",
+    "Latitude": "51.452113",
+    "Longitude": "-0.181015",
+    "Average Monthly Rent": 2268,
+    "Normalized Rent": "0.46987341772151897",
+    "fas": 189312400773
+  },
+  {
+    "Borough": "Westminster",
+    "Latitude": "51.494720",
+    "Longitude": "-0.135278",
+    "Average Monthly Rent": 3315,
+    "Normalized Rent": "1.0",
+    "fas": 169707217284
+  }
+]
