@@ -1,4 +1,7 @@
 <p align="center">
+  Authored with <a href="https://github.com/phoonicked" target="_blank">@phoonicked</a>, <a href="https://github.com/xRyann2255" target="_blank">@xRyann2255</a>, <a href="https://github.com/KutayGuven" target="_blank">@KutayGuven</a>.
+  <br/>
+<br/>
   <img src="https://github.com/Cy4Shot/ICHack2024/blob/master/banner.png?raw=true">
 </p>
 
@@ -9,6 +12,7 @@
 <p align="center">
   <img src="https://github.com/Cy4Shot/ICHack2024/blob/master/disclaimer.png?raw=true">
 </p>
+
 
 ## Inspiration
 When we first started hacking, our idea had always been trying to empower people's financial decisions. Fortunately, Citadel had a prompt that resonated with us. We believe that with proper understanding of financial data, we can help people make informed financial decisions. Compared to bigger firms, small business owners or potential business owners do not have the resources to make well-informed decisions consistently. We want to focus on helping small business owners obtain insight on where to build their company that could potentially completely change many lives for the better.
