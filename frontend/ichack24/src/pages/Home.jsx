@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import artwork from "./../images/artwork.png";
-import { faDashboard, faRocket } from "@fortawesome/free-solid-svg-icons";
+import { faRocket } from "@fortawesome/free-solid-svg-icons";
 import "./../style/home.scss";
 
 const Home = () => {

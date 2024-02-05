@@ -7,7 +7,6 @@ import {
   faClock,
   faDollar,
   faGlobe,
-  faHouse,
   faHouseChimney,
   faSignature,
 } from "@fortawesome/free-solid-svg-icons";
