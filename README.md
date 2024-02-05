@@ -8,6 +8,10 @@ When we first started hacking, our idea had always been trying to empower people
 ## What it does
 Our product, map.it! utilises consumers' data fetched from Google's API as well as an economic model to determine if a person's business is feasible in a give time-frame. Alongside, map.it! visualises customer segment growth potential, rent, and public transportation data that further supports user on finding the best location to start their business.
 
+<p align="center">
+  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/752/194/datas/gallery.jpg">
+</p>
+
 ## How we built it
 We use Google Maps API inside a react web application to display heatmaps to the user. To estimate the profit of a company we use a profitability index, calculated based off the user's financial information, further data from Google's API as well as the current inflation rate. To generate a digestible summary for inexperienced users, we take advantage of OpenAI's GPT-4 natural language model.
 
