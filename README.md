@@ -1,10 +1,14 @@
-![map.it!](https://github.com/Cy4Shot/ICHack2024/blob/master/banner.png?raw=true)
+<p align="center">
+  <img src="https://github.com/Cy4Shot/ICHack2024/blob/master/banner.png?raw=true">
+</p>
 
-map.it! is a tool for aspiring entrepreneurs to find the perfect location to open their business. We use a wide variety of financial data to calculate a projected profit for your company and neatly visualize it with an interactive heatmap.
+<p align="center">
+<strong>map.it!</strong> is a tool for aspiring entrepreneurs to find the perfect location to open their business. We use a wide variety of financial data to calculate a projected profit for your company and neatly visualize it with an interactive heatmap.
+</p>
 
-$${\color{gray}\texttt{All code was written within 24 hours during the ICHack hackathon, 2024.}}$$
-
-$${\color{gray}\texttt{Our team won the newcomers category, and placed runner-up for the most innovative use of financial data.}}$$
+<p align="center">
+  <img src="https://github.com/Cy4Shot/ICHack2024/blob/master/disclaimer.png?raw=true">
+</p>
 
 ## Inspiration
 When we first started hacking, our idea had always been trying to empower people's financial decisions. Fortunately, Citadel had a prompt that resonated with us. We believe that with proper understanding of financial data, we can help people make informed financial decisions. Compared to bigger firms, small business owners or potential business owners do not have the resources to make well-informed decisions consistently. We want to focus on helping small business owners obtain insight on where to build their company that could potentially completely change many lives for the better.
