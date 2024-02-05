@@ -13,7 +13,7 @@
 ## Inspiration
 When we first started hacking, our idea had always been trying to empower people's financial decisions. Fortunately, Citadel had a prompt that resonated with us. We believe that with proper understanding of financial data, we can help people make informed financial decisions. Compared to bigger firms, small business owners or potential business owners do not have the resources to make well-informed decisions consistently. We want to focus on helping small business owners obtain insight on where to build their company that could potentially completely change many lives for the better.
  
-## What it does
+## What we do
 Our product, map.it! utilises consumers' data fetched from Google's API as well as an economic model to determine if a person's business is feasible in a give time-frame. Alongside, map.it! visualises customer segment growth potential, rent, and public transportation data that further supports user on finding the best location to start their business.
 
 <p align="center">
